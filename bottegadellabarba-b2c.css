@@ -1,5 +1,242 @@
-/* BRAND 5% LABEL */
+.customer-group-0 .brand-item[data-name="Andis"]:before,
+.customer-group-1 .brand-item[data-name="Andis"]:before,
+.customer-group-0 .brand-item[data-name="Barbicide"]:before,
+.customer-group-1 .brand-item[data-name="Barbicide"]:before,
+.customer-group-0 .brand-item[data-name="Disicide"]:before,
+.customer-group-1 .brand-item[data-name="Disicide"]:before,
+.customer-group-0 .brand-item[data-name="Gamma Più - BarberHood"]:before,
+.customer-group-1 .brand-item[data-name="Gamma Più - BarberHood"]:before,
+.customer-group-0 .brand-item[data-name="JRL Professional"]:before,
+.customer-group-1 .brand-item[data-name="JRL Professional"]:before,
+.customer-group-0 .brand-item[data-name="Pegasus"]:before,
+.customer-group-1 .brand-item[data-name="Pegasus"]:before {
+    content: "-10%";
+    position: absolute;
+    padding: 10px;
+    background: black;
+    color: #fff;
+    font-family: 'MontserratBold';
+}
 
+
+.customer-group-0 .brand-item[data-name="4711"]:before,
+.customer-group-1 .brand-item[data-name="4711"]:before,
+.customer-group-0 .brand-item[data-name="Denman"]:before,
+.customer-group-1 .brand-item[data-name="Denman"]:before,
+.customer-group-0 .brand-item[data-name="Tabac"]:before,
+.customer-group-1 .brand-item[data-name="Tabac"]:before{
+    content: "-20%";
+    position: absolute;
+    padding: 10px;
+    background: black;
+    color: #fff;
+    font-family: 'MontserratBold';
+}
+
+
+
+.customer-group-0 .brand-item[data-name="Antica Barbieria Colla"]:before,
+.customer-group-1 .brand-item[data-name="Antica Barbieria Colla"]:before,
+.customer-group-0 .brand-item[data-name="Apothecary87"]:before,
+.customer-group-1 .brand-item[data-name="Apothecary87"]:before,
+.customer-group-0 .brand-item[data-name="Ariana & Evans"]:before,
+.customer-group-1 .brand-item[data-name="Ariana & Evans"]:before,
+.customer-group-0 .brand-item[data-name="Barbasol"]:before,
+.customer-group-1 .brand-item[data-name="Barbasol"]:before,
+.customer-group-0 .brand-item[data-name="Barber Mind"]:before,
+.customer-group-1 .brand-item[data-name="Barber Mind"]:before,
+.customer-group-0 .brand-item[data-name="Barbieria Carottese"]:before,
+.customer-group-1 .brand-item[data-name="Barbieria Carottese"]:before,
+.customer-group-0 .brand-item[data-name="Baxter Of California"]:before,
+.customer-group-1 .brand-item[data-name="Baxter Of California"]:before,
+.customer-group-0 .brand-item[data-name="Ben & Anna"]:before,
+.customer-group-1 .brand-item[data-name="Ben & Anna"]:before,
+.customer-group-0 .brand-item[data-name="Beyer's Oil"]:before,
+.customer-group-1 .brand-item[data-name="Beyer's Oil"]:before,
+.customer-group-0 .brand-item[data-name="Bullfrog"]:before,
+.customer-group-1 .brand-item[data-name="Bullfrog"]:before,
+.customer-group-0 .brand-item[data-name="Captain Fawcett"]:before,
+.customer-group-1 .brand-item[data-name="Captain Fawcett"]:before,
+.customer-group-0 .brand-item[data-name="Ciatu"]:before,
+.customer-group-1 .brand-item[data-name="Ciatu"]:before, 
+.customer-group-0 .brand-item[data-name="Clubman Pinaud"]:before,
+.customer-group-1 .brand-item[data-name="Clubman Pinaud"]:before,
+.customer-group-0 .brand-item[data-name="Corleone"]:before,
+.customer-group-1 .brand-item[data-name="Corleone"]:before,
+.customer-group-0 .brand-item[data-name="Couto"]:before,
+.customer-group-1 .brand-item[data-name="Couto"]:before,
+.customer-group-0 .brand-item[data-name="Crest"]:before,
+.customer-group-1 .brand-item[data-name="Crest"]:before,
+.customer-group-0 .brand-item[data-name="Dapper Dan"]:before,
+.customer-group-1 .brand-item[data-name="Dapper Dan"]:before,
+.customer-group-0 .brand-item[data-name="Dr. K"]:before,
+.customer-group-1 .brand-item[data-name="Dr. K"]:before, 
+.customer-group-0 .brand-item[data-name="D.R. Harris"]:before,
+.customer-group-1 .brand-item[data-name="D.R. Harris"]:before,
+.customer-group-0 .brand-item[data-name="Edwin Jagger"]:before,
+.customer-group-1 .brand-item[data-name="Edwin Jagger"]:before,
+.customer-group-0 .brand-item[data-name="El Penacho"]:before,
+.customer-group-1 .brand-item[data-name="El Penacho"]:before,
+.customer-group-0 .brand-item[data-name="Epsilon"]:before,
+.customer-group-1 .brand-item[data-name="Epsilon"]:before,
+.customer-group-0 .brand-item[data-name="Euthymol Toothpaste"]:before,
+.customer-group-1 .brand-item[data-name="Euthymol Toothpaste"]:before,
+.customer-group-0 .brand-item[data-name="Extrò Cosmesi"]:before,
+.customer-group-1 .brand-item[data-name="Extrò Cosmesi"]:before, 
+.customer-group-0 .brand-item[data-name="Fatip"]:before,
+.customer-group-1 .brand-item[data-name="Fatip"]:before,
+.customer-group-0 .brand-item[data-name="Fine"]:before,
+.customer-group-1 .brand-item[data-name="Fine"]:before,
+.customer-group-0 .brand-item[data-name="Floïd"]:before,
+.customer-group-1 .brand-item[data-name="Floïd"]:before,
+.customer-group-0 .brand-item[data-name="Geo. F. Trumper"]:before,
+.customer-group-1 .brand-item[data-name="Geo. F. Trumper"]:before,
+.customer-group-0 .brand-item[data-name="Gordon Shaving"]:before,
+.customer-group-1 .brand-item[data-name="Gordon Shaving"]:before,
+.customer-group-0 .brand-item[data-name="HAGS Artisan Shaving Soaps"]:before,
+.customer-group-1 .brand-item[data-name="HAGS Artisan Shaving Soaps"]:before, 
+.customer-group-0 .brand-item[data-name="Hanz De Fuko"]:before,
+.customer-group-1 .brand-item[data-name="Hanz De Fuko"]:before,
+.customer-group-0 .brand-item[data-name="Hey Joe!"]:before,
+.customer-group-1 .brand-item[data-name="Hey Joe!"]:before,
+.customer-group-0 .brand-item[data-name="Hurraw! Balm"]:before,
+.customer-group-1 .brand-item[data-name="Hurraw! Balm"]:before,
+.customer-group-0 .brand-item[data-name="Lavish Care"]:before,
+.customer-group-1 .brand-item[data-name="Lavish Care"]:before,
+.customer-group-0 .brand-item[data-name="Layrite"]:before,
+.customer-group-1 .brand-item[data-name="Layrite"]:before, 
+.customer-group-0 .brand-item[data-name="Le Père Lucien"]:before,
+.customer-group-1 .brand-item[data-name="Le Père Lucien"]:before,
+.customer-group-0 .brand-item[data-name="Lucky Tiger"]:before,
+.customer-group-1 .brand-item[data-name="Lucky Tiger"]:before,
+.customer-group-0 .brand-item[data-name="Mario Lorenzin"]:before,
+.customer-group-1 .brand-item[data-name="Mario Lorenzin"]:before,
+.customer-group-0 .brand-item[data-name="Marvis"]:before,
+.customer-group-1 .brand-item[data-name="Marvis"]:before,
+.customer-group-0 .brand-item[data-name="Meissner Tremonia"]:before,
+.customer-group-1 .brand-item[data-name="Meissner Tremonia"]:before,
+.customer-group-0 .brand-item[data-name="Morgan's"]:before,
+.customer-group-1 .brand-item[data-name="Morgan's"]:before, 
+.customer-group-0 .brand-item[data-name="Myrsol"]:before,
+.customer-group-1 .brand-item[data-name="Myrsol"]:before,
+.customer-group-0 .brand-item[data-name="Noberu"]:before,
+.customer-group-1 .brand-item[data-name="Noberu"]:before,
+.customer-group-0 .brand-item[data-name="Nordic Shaving Company"]:before,
+.customer-group-1 .brand-item[data-name="Nordic Shaving Company"]:before,
+.customer-group-0 .brand-item[data-name="O'Douds"]:before,
+.customer-group-1 .brand-item[data-name="O'Douds"]:before,
+.customer-group-0 .brand-item[data-name="Ohlalá"]:before,
+.customer-group-1 .brand-item[data-name="Ohlalá"]:before, 
+.customer-group-0 .brand-item[data-name="Phoenix Artisan Accoutrements"]:before,
+.customer-group-1 .brand-item[data-name="Phoenix Artisan Accoutrements"]:before,
+.customer-group-0 .brand-item[data-name="Proraso"]:before,
+.customer-group-1 .brand-item[data-name="Proraso"]:before,
+.customer-group-0 .brand-item[data-name="Rásso"]:before,
+.customer-group-1 .brand-item[data-name="Rásso"]:before,
+.customer-group-0 .brand-item[data-name="Reuzel"]:before,
+.customer-group-1 .brand-item[data-name="Reuzel"]:before,
+.customer-group-0 .brand-item[data-name="Rockwell Razors"]:before,
+.customer-group-1 .brand-item[data-name="Rockwell Razors"]:before,
+.customer-group-0 .brand-item[data-name="Salt & Stone"]:before,
+.customer-group-1 .brand-item[data-name="Salt & Stone"]:before, 
+.customer-group-0 .brand-item[data-name="Saponificio Bignoli"]:before,
+.customer-group-1 .brand-item[data-name="Saponificio Bignoli"]:before,
+.customer-group-0 .brand-item[data-name="Saponificio Varesino"]:before,
+.customer-group-1 .brand-item[data-name="Saponificio Varesino"]:before,
+.customer-group-0 .brand-item[data-name="Slick Gorilla"]:before,
+.customer-group-1 .brand-item[data-name="Slick Gorilla"]:before,
+.customer-group-0 .brand-item[data-name="Solomon's Beard"]:before,
+.customer-group-1 .brand-item[data-name="Solomon's Beard"]:before,
+.customer-group-0 .brand-item[data-name="St James of London"]:before,
+.customer-group-1 .brand-item[data-name="St James of London"]:before, 
+.customer-group-0 .brand-item[data-name="Steve & Phill's"]:before,
+.customer-group-1 .brand-item[data-name="Steve & Phill's"]:before,
+.customer-group-0 .brand-item[data-name="Suavecito"]:before,
+.customer-group-1 .brand-item[data-name="Suavecito"]:before,
+.customer-group-0 .brand-item[data-name="Taylor of Old Bond Street"]:before,
+.customer-group-1 .brand-item[data-name="Taylor of Old Bond Street"]:before,
+.customer-group-0 .brand-item[data-name="The Bluebeards Revenge"]:before,
+.customer-group-1 .brand-item[data-name="The Bluebeards Revenge"]:before,
+.customer-group-0 .brand-item[data-name="The Brighton Beard Company"]:before,
+.customer-group-1 .brand-item[data-name="The Brighton Beard Company"]:before,
+.customer-group-0 .brand-item[data-name="Truefitt & Hill"]:before,
+.customer-group-1 .brand-item[data-name="Truefitt & Hill"]:before, 
+.customer-group-0 .brand-item[data-name="Vielong"]:before,
+.customer-group-1 .brand-item[data-name="Vielong"]:before {
+    content: "-25%";
+    position: absolute;
+    padding: 10px;
+    background: black;
+    color: #fff;
+    font-family: 'MontserratBold';
+}
+
+
+.customer-group-0 .brand-item[data-name="Tonsor 1951"]:before,
+.customer-group-1 .brand-item[data-name="Tonsor 1951"]:before{
+    content: "-30%";
+    position: absolute;
+    padding: 10px;
+    background: black;
+    color: #fff;
+    font-family: 'MontserratBold';
+}
+
+
+.customer-group-0 .brand-item[data-name="Bottega della Barba"]:before,
+.customer-group-1 .brand-item[data-name="Bottega della Barba"]:before{
+    content: "-40%";
+    position: absolute;
+    padding: 10px;
+    background: black;
+    color: #fff;
+    font-family: 'MontserratBold';
+}
+
+
+.customer-group-0 .brand-item[data-name="Hair On"]:before,
+.customer-group-1 .brand-item[data-name="Hair On"]:before,
+.customer-group-0 .brand-item[data-name="Laboratory Perfumes"]:before,
+.customer-group-1 .brand-item[data-name="Laboratory Perfumes"]:before{
+    content: "-50%";
+    position: absolute;
+    padding: 10px;
+    background: black;
+    color: #fff;
+    font-family: 'MontserratBold';
+}
+
+
+.customer-group-0 .brand-item[data-name="Pacinos Signature Line"]:before,
+.customer-group-1 .brand-item[data-name="Pacinos Signature Line"]:before,
+.customer-group-0 .brand-item[data-name="Wilkinson Sword"]:before,
+.customer-group-1 .brand-item[data-name="Wilkinson Sword"]:before,
+.customer-group-0 .brand-item[data-name="Brooklyn Soap Company"]:before,
+.customer-group-1 .brand-item[data-name="Brooklyn Soap Company"]:before,
+.customer-group-0 .brand-item[data-name="Bulldog"]:before,
+.customer-group-1 .brand-item[data-name="Bulldog"]:before,
+.customer-group-0 .brand-item[data-name="Daimon Barber"]:before,
+.customer-group-1 .brand-item[data-name="Daimon Barber"]:before{
+    content: "-60%";
+    position: absolute;
+    padding: 10px;
+    background: black;
+    color: #fff;
+    font-family: 'MontserratBold';
+}
+
+
+.customer-group-0 .brand-item[data-name="Hairways"]:before,
+.customer-group-1 .brand-item[data-name="Hairways"]:before,
+.customer-group-0 .brand-item[data-name="Tabula Rasa"]:before,
+.customer-group-1 .brand-item[data-name="Tabula Rasa"]:before{
+    content: "-70%";
+    position: absolute;
+    padding: 10px;
+    background: black;
+    color: #fff;
+    font-family: 'MontserratBold';
+}
 
 .customer-group-0 .brand-item[data-name="Edwin Jagger"]:before,
 .customer-group-1 .brand-item[data-name="Edwin Jagger"]:before{
