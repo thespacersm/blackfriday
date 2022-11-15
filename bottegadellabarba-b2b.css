@@ -1,0 +1,116 @@
+/* BRAND 5% LABEL */
+
+.customer-group-3 .brand-item[data-name="Tabac"]:before,
+.customer-group-3 .brand-item[data-name="Lucky Tiger"]:before,
+.customer-group-3 .brand-item[data-name="JRL Professional"]:before,
+.customer-group-3 .brand-item[data-name="Gamma Più - BarberHood"]:before,
+.customer-group-3 .brand-item[data-name="Fine"]:before,
+.customer-group-3 .brand-item[data-name="4711"]:before {
+    content: "-5%";
+    position: absolute;
+    padding: 10px;
+    background: black;
+    color: #fff;
+    font-family: 'MontserratBold';
+}
+
+
+.customer-group-3 .brand-item[data-name="Truefitt & Hill"]:before,
+.customer-group-3 .brand-item[data-name="The brighton beard company"]:before,
+.customer-group-3 .brand-item[data-name="The Bluebeards Revenge"]:before,
+.customer-group-3 .brand-item[data-name="Taylor of Old Bond Street"]:before,
+.customer-group-3 .brand-item[data-name="Steve & Phill's"]:before,
+.customer-group-3 .brand-item[data-name="Solomon's Beard"]:before,
+.customer-group-3 .brand-item[data-name="Slick Gorilla"]:before,
+.customer-group-3 .brand-item[data-name="Reuzel"]:before,
+.customer-group-3 .brand-item[data-name="Nordic Shaving Company"]:before,
+.customer-group-3 .brand-item[data-name="Morgan's"]:before,
+.customer-group-3 .brand-item[data-name="Layrite"]:before,
+.customer-group-3 .brand-item[data-name="Hurraw! Balm"]:before,
+.customer-group-3 .brand-item[data-name="Gordon Shaving"]:before,
+.customer-group-3 .brand-item[data-name="Dr. K"]:before,
+.customer-group-3 .brand-item[data-name="Corleone"]:before,
+.customer-group-3 .brand-item[data-name="Clubman Pinaud"]:before,
+.customer-group-3 .brand-item[data-name="Ben & Anna"]:before {
+    content: "-10%";
+    position: absolute;
+    padding: 10px;
+    background: black;
+    color: #fff;
+    font-family: 'MontserratBold';
+}
+
+
+.customer-group-3 .brand-item[data-name="Proraso"]:before,
+.customer-group-3 .brand-item[data-name="Ohlalá"]:before,
+.customer-group-3 .brand-item[data-name="Meissner Tremonia"]:before,
+.customer-group-3 .brand-item[data-name="El Penacho"]:before,
+.customer-group-3 .brand-item[data-name="Ciatu"]:before,
+.customer-group-3 .brand-item[data-name="Captain Fawcett"]:before,
+.customer-group-3 .brand-item[data-name="Bullfrog"]:before,
+.customer-group-3 .brand-item[data-name="Apothecary87"]:before {
+    content: "-15%";
+    position: absolute;
+    padding: 10px;
+    background: black;
+    color: #fff;
+    font-family: 'MontserratBold';
+}
+
+
+.customer-group-3 .brand-item[data-name="Barber Mind"]:before,
+.customer-group-3 .brand-item[data-name="Dapper Dan"]:before,
+.customer-group-3 .brand-item[data-name="Hair On"]:before,
+.customer-group-3 .brand-item[data-name="Lavish Care"]:before,
+.customer-group-3 .brand-item[data-name="Mario Lorenzin"]:before,
+.customer-group-3 .brand-item[data-name="Noberu"]:before,
+.customer-group-3 .brand-item[data-name="Tonsor 1951"]:before,
+.customer-group-3 .brand-item[data-name="Uppercut Deluxe"]:before {
+    content: "-20%";
+    position: absolute;
+    padding: 10px;
+    background: black;
+    color: #fff;
+    font-family: 'MontserratBold';
+}
+
+
+.customer-group-3 .brand-item[data-name="Bottega della Barba"]:before {
+    content: "-25%";
+    position: absolute;
+    padding: 10px;
+    background: black;
+    color: #fff;
+    font-family: 'MontserratBold';
+}
+
+.customer-group-3 .brand-item[data-name="Daimon Barber"]:before,
+.customer-group-3 .brand-item[data-name="Hairways"]:before,
+.customer-group-3 .brand-item[data-name="Pacinos Signature Line"]:before {
+    content: "-30%";
+    position: absolute;
+    padding: 10px;
+    background: black;
+    color: #fff;
+    font-family: 'MontserratBold';
+}
+
+
+.customer-group-3 .brand-item[data-name="Edwin Jagger"]:before{
+    content: "-5-10%";
+    position: absolute;
+    padding: 10px;
+    background: black;
+    color: #fff;
+    font-family: 'MontserratBold';
+}
+
+
+.customer-group-3 .brand-item[data-name="Uppercut Deluxe"]:before{
+    content: "-20-40%";
+    position: absolute;
+    padding: 10px;
+    background: black;
+    color: #fff;
+    font-family: 'MontserratBold';
+}
