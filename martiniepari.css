@@ -10,7 +10,7 @@
 }
 
 #layer-product-list .item.product .photo:after {
-    content: "Speciale Black Friday extra sconto del 10% su tutto il catalogo!";
+    content: "Black Friday: solo il 25 novembre extra sconto del 10% su tutto il catalogo!";
     opacity: 0.01;
     display: block;
     width: 100%;
@@ -22,7 +22,7 @@
 }
 
 .catalog-product-view .price-box.price-final_price:before {
-    content: "Speciale Black Friday extra sconto del 10% su tutto il catalogo!";
+    content: "Black Friday: solo il 25 novembre extra sconto del 10% su tutto il catalogo!";
     opacity: 0.01;
     display: block;
     width: 100%;
