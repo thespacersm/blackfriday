@@ -18,7 +18,7 @@
     text-align: center;
     color: #fff;
     /* padding: 10px; */
-
+    display: none;
 }
 
 .catalog-product-view .price-box.price-final_price:before {
@@ -30,4 +30,5 @@
     text-align: center;
     color: #fff;
     /* padding: 10px; */
+    display: none;
 }
