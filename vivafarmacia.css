@@ -1,3 +1,9 @@
-.main-panel-top:before {
-  content: "Ciao";
+.page-header:before {
+    content: "Ciao";
+    display: block;
+    width: 100%;
+    background: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
 }
