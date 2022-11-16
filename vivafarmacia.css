@@ -1,10 +1,46 @@
-.page-header:before {
-    content: "Ciao";
+.page-wrapper:before {
+    content: "Speciale Black Friday: Dal 21 al 28 novembre extra sconti fino al 50% su numerosi prodotti!";
+    display: block;
+    width: 100%;
+    background: black;
+    opacity: 0;
+    color: #fff;
+    text-align: center;
+    /* padding: 5px; */
+    height: 1px;
+}
+
+#amasty-shopby-product-list .item.product .price-box.price-final_price:before {
+    content: "Speciale Black Friday: Dal 21 al 28 novembre extra sconto su numerosi prodotti!";
     display: block;
     width: 100%;
     background: black;
     color: #fff;
     text-align: center;
     /* padding: 5px; */
-    height: 0;
+    font-weight: normal;
+    opacity: 0;
+    height: 1px;
+    font-size: 13px;
+    z-index: 999999999999;
+    line-height: 14px;
+    position: relative;
+}
+
+.catalog-product-view .product-info-side:before {
+    content: "Speciale Black Friday: Dal 21 al 28 novembre extra sconto su numerosi prodotti!";
+    display: block;
+    width: 100%;
+    background: black;
+    color: #fff;
+    text-align: center;
+    /* padding: 10px; */
+    font-weight: normal;
+    height: 1px;
+    opacity: 0;
+    font-size: 16px;
+    z-index: 999999999999;
+    line-height: 16px;
+    position: relative;
+    /* margin-bottom: 10px; */
 }
