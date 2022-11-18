@@ -16,7 +16,7 @@
 }
 
 #layer-product-list .item.product .product.photo:after {
-    content: "Black Friday: Dal 22 al 28 novembre extra sconto!";
+    content: "Black Friday: dal 22 al 28 novembre prezzo ribassato del 5%";
     display: block;
     width: 100%;
     background: black;
@@ -32,7 +32,7 @@
 }
 
 .catalog-product-view .product-info-price:after {
-    content: "Speciale Black Friday: dal 22 al 28 Novembre extra sconto del 5%";
+    content: "Speciale Black Friday: dal 22 al 28 novembre prezzo ribassato del 5%";
     display: block;
     width: 100%;
     background: black;
