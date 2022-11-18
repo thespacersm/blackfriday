@@ -1,0 +1,46 @@
+.wrapper:before {
+    content: "Speciale Black Friday: dal 21 al 28 Novembre extra sconto del 7%";
+    display: block;
+    width: 100%;
+    background: black;
+    opacity: 0;
+    color: #fff;
+    text-align: center;
+    font-size: 16px;
+    border-bottom: 1px solid #fff;
+    /* padding: 10px; */
+    height: 1px;
+}
+
+ul.products-grid .item .product-image-area:after {
+    content: "Black Friday: Dal 21 al 28 novembre extra sconto!";
+    display: block;
+    width: 100%;
+    background: black;
+    color: #fff;
+    text-align: center;
+    /* padding: 10px; */
+    font-weight: normal;
+    opacity: 0;
+    height: 1px;
+    font-size: 10px;
+    line-height: 14px;
+    position: relative;
+}
+
+.catalog-product-view .product-info:before {
+    content: "Speciale Black Friday: dal 21 al 28 Novembre extra sconto del 7%";
+    display: block;
+    width: 100%;
+    background: black;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    font-weight: normal;
+    height: 1px;
+    opacity: 0;
+    font-size: 14px;
+    line-height: 16px;
+    position: relative;
+    /* margin-bottom: 20px; */
+}
