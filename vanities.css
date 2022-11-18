@@ -1,5 +1,5 @@
 .page-wrapper:before {
-    content: "Speciale Black Friday: dal 25 al 28 Novembre extra sconti fino al 30%";
+    content: "Speciale Black Friday: dal 25 al 28 Novembre extra dal 30% al 50%";
     display: block;
     width: 100%;
     background: black;
@@ -27,7 +27,7 @@
 }
 
 .catalog-product-view .product-info-price:after {
-    content: "Speciale Black Friday: dal 25 al 28 Novembre extra sconti fino al 30%";
+    content: "Speciale Black Friday: dal 25 al 28 Novembre extra sconti dal 30% al 50%";
     display: block;
     width: 100%;
     background: black;
