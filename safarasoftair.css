@@ -40,7 +40,7 @@ ul.products-grid .item .product-image-area:after {
     font-size: 14px;
     line-height: 16px;
     position: relative;
-    /* margin-bottom: 20px; */
+    margin-bottom: 20px;
     /* height: 1px; */
     /* opacity: 0; */
 }
