@@ -3,11 +3,11 @@
     display: block;
     width: 100%;
     background: black;
-    opacity: 0;
+    /* opacity: 0; */
     color: #fff;
     text-align: center;
-    /* padding: 5px; */
-    height: 1px;
+    padding: 5px;
+    /* height: 1px; */
 }
 
 #amasty-shopby-product-list .item.product .price-box.price-final_price:before {
@@ -17,13 +17,13 @@
     background: black;
     color: #fff;
     text-align: center;
-    /* padding: 5px; */
+    padding: 5px;
     font-weight: normal;
-    opacity: 0;
-    height: 1px;
+    /* opacity: 0; */
+    /* height: 1px; */
     font-size: 13px;
     z-index: 999999999999;
-    line-height: 14px;
+    line-height: 13px;
     position: relative;
 }
 
@@ -34,13 +34,13 @@
     background: black;
     color: #fff;
     text-align: center;
-    /* padding: 10px; */
+    padding: 10px;
     font-weight: normal;
-    height: 1px;
-    opacity: 0;
+    /* height: 1px; */
+    /* opacity: 0; */
     font-size: 16px;
     z-index: 999999999999;
     line-height: 16px;
     position: relative;
-    /* margin-bottom: 10px; */
+    margin-bottom: 10px;
 }
