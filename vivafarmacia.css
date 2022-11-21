@@ -47,3 +47,29 @@
     position: relative;
     margin-bottom: 10px;
 }
+
+@media only screen and (max-width: 992px) {
+    #amasty-shopby-product-list .item.product .price-box.price-final_price:before {   
+         display: none;   
+    }
+    
+    #amasty-shopby-product-list .item.product:before {
+        content: "Black Friday: Dal 21 al 28 extra sconto su numerosi prodotti!";
+        display: block;
+        width: 100%;
+        background: black;
+        color: #fff;
+        text-align: center;
+        padding: 5px;
+        width: 210px;
+        font-weight: normal;
+        /* opacity: 0; */
+        /* height: 1px; */
+        font-size: 14px;
+        z-index: 999999999999;
+        line-height: 12px;
+        position: relative;
+        margin-top: -5px;
+        margin-bottom: 3px;
+    }
+}
