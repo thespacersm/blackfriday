@@ -44,3 +44,21 @@ ul.products-grid .item .product-image-area:after {
     /* height: 1px; */
     /* opacity: 0; */
 }
+
+#slideshow .container:before {
+    content: "";
+    display: block;
+    height: 400px;
+    background: #000;
+    width: 100%;
+    background-image: url(https://raw.githubusercontent.com/thespacersm/blackfriday/main/slider-black-friday2022.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+@media only screen and (max-width: 480px) {
+     #slideshow .container:before {
+        height: 140px;   
+    }
+}
