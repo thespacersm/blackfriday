@@ -47,3 +47,9 @@
     margin-bottom: 20px;
     padding: 15px;
 }
+
+@media only screen and (max-width: 480px) {
+    #layer-product-list .item.product .product.photo:after {
+        display: none;
+    }   
+}
