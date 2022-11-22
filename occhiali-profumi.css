@@ -1,5 +1,5 @@
 .all-page-contentbar {
-    /* display: none; */
+    display: none;
 }
 
 .page-wrapper:before {
@@ -7,12 +7,12 @@
     display: block;
     width: 100%;
     background: black;
-    opacity: 0;
     color: #fff;
     text-align: center;
-    /* padding: 10px; */
-    height: 1px;
+    padding: 10px;
     font-size: 16px;
+    /* height: 1px; */
+    /* opacity: 0; */
 }
 
 #layer-product-list .item.product .product.photo:after {
@@ -22,13 +22,13 @@
     background: black;
     color: #fff;
     text-align: center;
-    /* padding: 10px; */
     font-weight: normal;
-    opacity: 0;
-    height: 1px;
+    /* opacity: 0; */
+    /* height: 1px; */
     font-size: 12px;
     line-height: 14px;
     position: relative;
+    /* padding: 10px; */
 }
 
 .catalog-product-view .product-info-price:after {
@@ -38,12 +38,12 @@
     background: black;
     color: #fff;
     text-align: left;
-    /* padding: 15px; */
     font-weight: normal;
-    height: 1px;
-    opacity: 0;
+    /* height: 1px; */
+    /* opacity: 0; */
     font-size: 15px;
     line-height: 16px;
     position: relative;
-    /* margin-bottom: 20px;
+    margin-bottom: 20px;
+    padding: 15px;
 }
