@@ -26,6 +26,12 @@
     /* height: 1px; */
 }
 
+#amasty-shopby-product-list .owl-stage .item.product .product.photo:after {
+    position: absolute;
+    bottom: 0;
+    z-index: 1;
+}
+
 .catalog-product-view .product-info-price:after {
     content: "Speciale Black Friday: dal 22 novembre al 4 dicembre extra sconti dal 30% al 50%";
     display: block;
