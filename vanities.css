@@ -1,5 +1,5 @@
 .page-wrapper:before {
-    content: "Speciale Black Friday: dal 22 al 28 Novembre extra dal 30% al 50%";
+    content: "Speciale Black Friday: dal 22 novembre al 4 dicembre extra dal 30% al 50%";
     display: block;
     width: 100%;
     background: black;
@@ -11,7 +11,7 @@
 }
 
 #amasty-shopby-product-list .item.product .product.photo:after {
-    content: "Black Friday: Dal 22 al 28 novembre extra sconto!";
+    content: "Black Friday: Dal 22 novembre al 4 dicembre extra sconto!";
     display: block;
     width: 100%;
     background: black;
@@ -27,7 +27,7 @@
 }
 
 .catalog-product-view .product-info-price:after {
-    content: "Speciale Black Friday: dal 22 al 28 Novembre extra sconti dal 30% al 50%";
+    content: "Speciale Black Friday: dal 22 novembre al 4 dicembre extra sconti dal 30% al 50%";
     display: block;
     width: 100%;
     background: black;
