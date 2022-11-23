@@ -1,0 +1,29 @@
+.wrapper:before {
+    content: "Black Friday: discounts up to 50% on the entire catalogue";
+    display: block;
+    width: 100%;
+    background: black;
+    color: #fff;
+    text-align: center;
+    font-size: 14px;
+    border-bottom: 1px solid #fff;
+    padding: 10px;
+    /* height: 1px; */
+    /* opacity: 0; */
+}
+
+ul.products-grid .item .product-image-area:after {
+    content: "Black Friday: Discounts from 24 to 27 November";
+    display: block;
+    width: 100%;
+    background: black;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 14px;
+    position: relative;
+    /* opacity: 0; */
+    /* height: 1px; */
+}
