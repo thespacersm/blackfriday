@@ -53,5 +53,6 @@
      #amasty-shopby-product-list .item.product .product.photo:after {
         font-size: 9px;
         line-height: 9px;
+        padding: 2px;
     }   
 }
