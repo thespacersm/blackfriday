@@ -48,3 +48,10 @@
     position: relative;
     margin-bottom: 20px;
 }
+
+@media only screen and (max-width: 480px) {
+     #amasty-shopby-product-list .item.product .product.photo:after {
+        font-size: 9px;
+        line-height: 9px;
+    }   
+}
