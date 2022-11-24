@@ -1,5 +1,5 @@
 .wrapper:before {
-    content: "Speciale Black Friday: dal 25 al 28 novembre extra sconti fino al 40%";
+    content: "Speciale Black Friday: dal 25 al 27 novembre extra sconti fino al 40%";
     display: block;
     width: 100%;
     background: black;
@@ -13,7 +13,7 @@
 }
 
 ul.products-grid .item .product-image-area:after {
-    content: "Black Friday: Dal 25 al 28 novembre extra sconti!";
+    content: "Black Friday: Dal 25 al 27 novembre extra sconti!";
     display: block;
     width: 100%;
     background: black;
@@ -29,7 +29,7 @@ ul.products-grid .item .product-image-area:after {
 }
 
 .catalog-product-view .product-info:before {
-    content: "Speciale Black Friday: dal 25 al 28 novembre extra sconti fino al 40%";
+    content: "Speciale Black Friday: dal 25 al 27 novembre extra sconti fino al 40%";
     display: block;
     width: 100%;
     background: black;
