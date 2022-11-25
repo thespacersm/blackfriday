@@ -1,0 +1,44 @@
+.page-wrapper:before {
+    content: "Speciale Black Friday: from 25 to 28 November extra 20% discount on all products, online only!";
+    display: block;
+    width: 100%;
+    background: black;
+    opacity: 0;
+    color: #fff;
+    text-align: center;
+    /* padding: 10px; */
+    height: 1px;
+}
+
+#amasty-shopby-product-list .item.product .product.photo:after {
+    content: "Black Friday: From November 25 to 28 extra discount!";
+    display: block;
+    width: 100%;
+    background: black;
+    color: #fff;
+    text-align: center;
+    /* padding: 10px; */
+    font-weight: normal;
+    opacity: 0;
+    height: 1px;
+    font-size: 11px;
+    line-height: 14px;
+    position: relative;
+}
+
+.catalog-product-view .product-add-form:after {
+    content: "Speciale Black Friday: from 25 to 28 November extra 20% discount automatically applied to cart";
+    display: block;
+    width: 100%;
+    background: black;
+    color: #fff;
+    text-align: center;
+    /* padding: 10px; */
+    font-weight: normal;
+    height: 1px;
+    opacity: 0;
+    font-size: 14px;
+    line-height: 16px;
+    position: relative;
+    /* margin-bottom: 20px; */
+}
