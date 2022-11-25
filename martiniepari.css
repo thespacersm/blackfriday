@@ -1,34 +1,34 @@
 .header-newskin > .nav-sections:before {
     content: "Speciale Black Friday: Solo il 25 novembre extra sconto del 10% su tutto il catalogo! Lo sconto sarà calcolato automaticamente al carrello.";
-    opacity: 0.01;
     display: block;
     width: 100%;
     background: black;
     text-align: center;
     color: #fff;
-    /* padding: 10px; */
+    padding: 10px;
+    /* opacity: 0.01; */
 }
 
 #layer-product-list .item.product .photo:after {
     content: "Black Friday: solo il 25 novembre extra sconto del 10% su tutto il catalogo!";
-    opacity: 0.01;
     display: block;
     width: 100%;
     background: black;
     text-align: center;
     color: #fff;
-    /* padding: 10px; */
-    display: none;
+    padding: 10px;
+    /* opacity: 0.01; */
+    /* display: none; */
 }
 
 .catalog-product-view .price-box.price-final_price:before {
     content: "Black Friday: solo il 25 novembre extra sconto del 10% su tutto il catalogo!";
-    opacity: 0.01;
     display: block;
     width: 100%;
     background: black;
     text-align: center;
     color: #fff;
-    /* padding: 10px; */
-    display: none;
+    padding: 10px;
+    /* opacity: 0.01; */
+    /* display: none; */
 }
