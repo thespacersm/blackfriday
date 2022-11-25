@@ -1,5 +1,5 @@
 .page-wrapper:before {
-    content: "Speciale Black Friday: from 25 to 28 November extra 20% discount on all products, online only!";
+    content: "Black Friday Special: from 25 to 28 November extra 20% discount on all products, online only!";
     display: block;
     width: 100%;
     background: black;
@@ -27,7 +27,7 @@
 }
 
 .catalog-product-view .product-add-form:after {
-    content: "Speciale Black Friday: from 25 to 28 November extra 20% discount automatically applied to cart";
+    content: "Black Friday Special: from 25 to 28 November extra 20% discount automatically applied to cart";
     display: block;
     width: 100%;
     background: black;
