@@ -28,7 +28,7 @@
     /* height: 1px; */
 }
 
-.catalog-product-view .product-info:before {
+.category-black-friday.catalog-product-view .product-info:before {
     content: "Speciale Black Friday: dal 25 al 27 novembre extra sconti fino al 40%";
     display: block;
     width: 100%;
