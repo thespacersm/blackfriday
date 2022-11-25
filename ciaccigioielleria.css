@@ -12,7 +12,7 @@
     /* opacity: 0; */
 }
 
-ul.products-grid .item .product-image-area:after {
+.category-black-friday ul.products-grid .item .product-image-area:after {
     content: "Black Friday: Dal 25 al 27 novembre extra sconti!";
     display: block;
     width: 100%;
