@@ -13,7 +13,7 @@
 }
 
 ul.products-grid .item .product-image-area:after {
-    content: "Black Friday: Sconti dal 24 al 27 novembre";
+    content: "Black Friday: Ultimo giorno!";
     display: block;
     width: 100%;
     background: black;
